@@ -1,1 +1,1 @@
-# Image-Gallery-Website
+This is the second addition of learning HTML and CSS
